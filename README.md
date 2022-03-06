@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ni6H7
 - ⌨️ I'm doing ModPE scripts
-- 🌱 Learn to Write PHP Plugins
+- 🌱 I am learning to write php plugins
 
 Links:
 VK - https://VK.com/Ni6H7
