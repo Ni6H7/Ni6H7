@@ -1,17 +1,20 @@
-- 👋 Hi, I’m @Ni6H7
+<p align="center">
+	<b>About me</b>
+</p>
+
+## Hey! 👋
+
+- 👋 I’m @Ni6H7
 - ⌨️ I'm doing ModPE scripts
 - 🌱 I am learning to write php plugins
 
-Links:
+### Contact me
+- VK: https://vk.com/Ni6H7
+- Mail: ivor_real@vk.com
 
-VK - https://VK.com/Ni6H7
+### Donate
+- QIWI: https://qiwi/n/DEADLINEE
 
-Mail - ivor_real@vk.com
-
-Donate - https://qiwi/n/DEADLINEE
-
-
-<!---
-Ni6H7/Ni6H7 — это ✨ специальный ✨ репозиторий, потому что его `README.md` (этот файл) отображается в вашем профиле GitHub.
-Вы можете щелкнуть ссылку «Предварительный просмотр», чтобы просмотреть свои изменения.
---->
+### Statistics
+![My Stats](https://github-readme-stats.vercel.app/api?username=Ni6H7&show_icons=true&count_private=true&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ni6H7&layout=compact)
